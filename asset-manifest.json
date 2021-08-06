@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-js-to-do-list/static/css/main.312f7807.chunk.css",
+    "main.js": "/React-js-to-do-list/static/js/main.95507600.chunk.js",
+    "main.js.map": "/React-js-to-do-list/static/js/main.95507600.chunk.js.map",
+    "runtime-main.js": "/React-js-to-do-list/static/js/runtime-main.64de7d09.js",
+    "runtime-main.js.map": "/React-js-to-do-list/static/js/runtime-main.64de7d09.js.map",
+    "static/js/2.196bab19.chunk.js": "/React-js-to-do-list/static/js/2.196bab19.chunk.js",
+    "static/js/2.196bab19.chunk.js.map": "/React-js-to-do-list/static/js/2.196bab19.chunk.js.map",
+    "static/js/3.c39e357e.chunk.js": "/React-js-to-do-list/static/js/3.c39e357e.chunk.js",
+    "static/js/3.c39e357e.chunk.js.map": "/React-js-to-do-list/static/js/3.c39e357e.chunk.js.map",
+    "index.html": "/React-js-to-do-list/index.html",
+    "static/css/main.312f7807.chunk.css.map": "/React-js-to-do-list/static/css/main.312f7807.chunk.css.map",
+    "static/js/2.196bab19.chunk.js.LICENSE.txt": "/React-js-to-do-list/static/js/2.196bab19.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/React-js-to-do-list/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64de7d09.js",
+    "static/js/2.196bab19.chunk.js",
+    "static/css/main.312f7807.chunk.css",
+    "static/js/main.95507600.chunk.js"
+  ]
+}
